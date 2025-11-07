@@ -1,6 +1,6 @@
 Hi, I'm Jaswitha  
 
-💻 Passionate about building web apps, solving coding problems, and exploring new technologies.  
+💻 Passionate about building web apps, solving coding problems, and exploring new technologies .  
 🚀 Always learning and contributing to open source.  
 
 ---
