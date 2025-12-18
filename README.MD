@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm **Jaswitha**  
+# 🌟 Hi, I'm **Jaswitha** 
 💻 A passionate **web developer** who loves crafting beautiful UIs, solving real-world problems, and exploring cutting-edge technologies.  
 🚀 Always learning, always building, and always contributing to the **open-source** community.  
 ---
